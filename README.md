@@ -1,5 +1,6 @@
 # TATA(Data-Visualization)Virtual Internship
 During this internship program , I completed a virtual internship at Tata where I consolidated and visualized sales, customer, and inventory data for online retail analysis. By analyzing customer behavior and purchase patterns, I identified key segments and optimized marketing efforts. Additionally, I created an interactive dashboard that provides real-time insights.
+
 ➡️Here are the tasks that were provided in this virtual internship:
 # 1. Framing Business Scenarios:
 - In this task a dataset was provided "Online Retail Store Dataset" to analyze the data and frame impactful questions for the CEO and CMO. 
