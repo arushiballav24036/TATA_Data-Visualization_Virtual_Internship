@@ -34,7 +34,12 @@ During this internship program , I completed a virtual internship at Tata where 
   - Power BI
 ### Key Insights:
 #### 1. Data Analysis and Cleaning:
-     - Imported the Dataset into Power BI
+   - Imported the Dataset into Power BI
+   - To identify key variables and ensure accurate analysis, the exploratory analysis of dataset structure and data types has been done using the Power Query editor in Power BI.
+   -  Handled the missing values, cleaned the data, and transformed it as needed.
+   -  DAX has been used to compute essential metrics such as total revenue, total products and total quantities.
+   -  A series of insightful charts has been created to effectively communicate the findings.
+#### 2. 
    
   
   
