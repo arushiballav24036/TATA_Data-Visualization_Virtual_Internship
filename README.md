@@ -14,9 +14,9 @@ During this internship program , I completed a virtual internship at Tata where 
 
 # Online Retail Sales Analysis:
 #### Dashboard 1:
-![Screenshot 2024-08-28 142605](https://github.com/user-attachments/assets/28c4c043-ad49-4696-be4e-c09c7cbb0a19)
+![Screenshot 2024-08-31 142508](https://github.com/user-attachments/assets/f034468d-b6bd-49a0-bc39-9372f532b377)
 #### Dashboard 2:
-![Screenshot 2024-08-28 142528](https://github.com/user-attachments/assets/ffcf3ec8-5a60-440d-8603-650328c20124)
+![Screenshot 2024-08-31 142528](https://github.com/user-attachments/assets/44f4de7c-8219-460f-aa51-9663ca2f2108)
 
 ## Table of Contents
 - Project Overview
