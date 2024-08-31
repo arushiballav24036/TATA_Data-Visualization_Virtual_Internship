@@ -39,7 +39,8 @@ During this internship program , I completed a virtual internship at Tata where 
    -  Handled the missing values, cleaned the data, and transformed it as needed.
    -  DAX has been used to compute essential metrics such as total revenue, total products and total quantities.
    -  A series of insightful charts has been created to effectively communicate the findings.
-#### 2. 
+#### 2. Seasonal Trends:
+   - 
    
   
   
