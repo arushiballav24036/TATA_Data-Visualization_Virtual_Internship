@@ -40,8 +40,32 @@ During this internship program , I completed a virtual internship at Tata where 
    -  DAX has been used to compute essential metrics such as total revenue, total products and total quantities.
    -  A series of insightful charts has been created to effectively communicate the findings.
 #### 2. Seasonal Trends:
-   - 
-   
+   - In dashboard 1, the data shows that the increase in revenue starts in the month of September. This trend continues till the month of November where it reached
+     1.51 million USD, the highest during the entire year. This analysis shows, that the retail store sales are impacted by the seasonality which usually occurs in 
+     the last 4 months of the year.
+   - In dashboard 2, the total quantity showed a consistent upward trend from the month of July to November indicating strong demand growth. The highest quantity 
+     is recorded in the month of November.
+#### 3. Country wise Revenue Analysis:
+   - The visual shows how the top 10 countries which have opportunities for growth are performing. The analysis shows that, countries such as the Netherlands, 
+     Ireland, Germany and France have high volumes of units bought and revenue generated.
+#### 4. Customer Analysis by Revenue:
+    - The analysis shows that, there is not much of a difference between the purchases made by the top 10 customers. The highest revenue generating customer only 
+      purchased 7% more than the 2nd highest which shows that the business is not relying only on a few customers to generate the revenue. This shows that, the 
+      bargaining power of customers is low and the business is in a good position.
+#### 5. Customer Analysis by Quantity:
+    - The analysis shows that, the top 3 customers contribute significantly to the overall quantity and after that there is not so much difference between the 
+      other customers.
+#### 6. Regional Analysis by Revenue:
+    - It can be seen that, countries such as Netherlands, Ireland, Germany, France and Australia are generating high revenue and the company should invest more in 
+      these areas to increase demand for products. Africa and Asia do not have any demand for the products, along with Russia.
+#### 7. Regional Analysis by Quantity:
+    - The highest quantities were observed in Countries such as Netherlands, Ireland, Germany, France and Australia, indicating strong demand in these areas.The 
+      company allocating more resources to top-performing regions to maximize sales, while exploring targeted strategies, such as promotional offers or localized 
+      marketing, to boost performance in underperforming areas.
+#### 8. Revenue by Top 5 Products:
+
+
+
   
   
   
